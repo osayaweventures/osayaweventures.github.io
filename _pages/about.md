@@ -9,6 +9,7 @@ profile:
   image: terry.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Osayawe Terry (Founder)</p>
     <p>Heidestr 17.</p>
     <p>51069, Cologne.</p>
     <p>Germany.</p>
